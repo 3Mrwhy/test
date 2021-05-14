@@ -1,0 +1,12 @@
+{
+	"users": [
+		{ "id": 1, "name": "mrwhy", "age": "24", "country": "india" }
+	],
+	"posts": [
+		{"id": 1, "title": "post title", "userId": 1},
+		{"id": 2, "title": "second post title", "userId": 1}
+	],
+	"comments": [
+		{"id": "1", "message": "commented on post one", "postId": 1, "userId": 1}
+	]
+}
